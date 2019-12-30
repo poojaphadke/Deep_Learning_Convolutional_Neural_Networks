@@ -2,4 +2,4 @@
 This repo contains the following Deep Learning Projects using Convolutional Neural Networks.
 1. Residual Networks
 2. Autonomous driving application, car detection
-3. 
+3. Face Recognition
